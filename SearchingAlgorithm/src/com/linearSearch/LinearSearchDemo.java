@@ -4,7 +4,7 @@ package com.linearSearch;
  Start from the leftmost element of array and one by one compare number 'x'(number to be searched in array) with each element of array,
  If x matches with an element, return the index.
  If x doesn’t match with any of elements, return -1.
-*/
+ */
 
 public class LinearSearchDemo {
 
